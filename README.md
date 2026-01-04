@@ -275,3 +275,4 @@ For questions or issues:
 
 Remember: This app is a supplement to official emergency guidance. Always follow instructions from local authorities and emergency services.
 
+
