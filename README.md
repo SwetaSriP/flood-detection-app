@@ -2,6 +2,10 @@
 
 A comprehensive offline-first voice and text-based assistant application designed to provide critical guidance and recommendations during flood emergencies.
 
+# Video link of the prototype
+
+https://drive.google.com/file/d/1-dI7Rwx7BJO5ARsxe8TnVzXi-jIV7MU3/view?usp=drivesdk
+
 ## Features
 
 ✅ **Voice Input/Output** - Ask questions and receive voice responses using Web Speech API  
@@ -270,3 +274,4 @@ For questions or issues:
 **Stay Safe During Floods** 🌊
 
 Remember: This app is a supplement to official emergency guidance. Always follow instructions from local authorities and emergency services.
+
